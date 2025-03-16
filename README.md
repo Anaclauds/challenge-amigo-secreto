@@ -31,6 +31,13 @@ git clone https://github.com/Anaclauds/challenge-amigo-secreto
 - **Adicionar amigos:** Digite o nome de um amigo no campo de texto e clique em ***Adicionar***.
 - **Sortear amigo secreto:** Clique no botão ***Sortear amigo*** para realizar o sorteio. O nome do amigo sorteado será exibido abaixo.
 
+## Jogue Agora! 🤩
+
+Clique no botão abaixo para acessar o **Amigo Secreto** diretamente no seu navegador e se divertir! 🎉  
+
+[![Acesse o Jogo](https://img.shields.io/badge/%F0%9F%8E%AE%20Jogar%20Agora-FF4081?style=for-the-badge)](https://jogo-amigo-secreto-anaclauds-projects.vercel.app/)
+
+
 ## Feito com 💖 por:
 <table>
   <tr>
