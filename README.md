@@ -35,7 +35,7 @@ git clone https://github.com/Anaclauds/challenge-amigo-secreto
 
 Clique no botão abaixo para acessar o **Amigo Secreto** diretamente no seu navegador e se divertir! 🎉  
 
-[![Acesse o Jogo](https://img.shields.io/badge/%F0%9F%8E%AE%20Jogar%20Agora-FF4081?style=for-the-badge)](https://jogo-amigo-secreto-anaclauds-projects.vercel.app/)
+[![Acesse o Jogo](https://img.shields.io/badge/%F0%9F%8E%AE%20Jogar%20Agora-FF4081?style=for-the-badge)](https://anaclauds.github.io/challenge-amigo-secreto/)
 
 
 ## Feito com 💖 por:
