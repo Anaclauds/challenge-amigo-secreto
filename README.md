@@ -31,12 +31,19 @@ git clone https://github.com/Anaclauds/challenge-amigo-secreto
 - **Adicionar amigos:** Digite o nome de um amigo no campo de texto e clique em ***Adicionar***.
 - **Sortear amigo secreto:** Clique no botão ***Sortear amigo*** para realizar o sorteio. O nome do amigo sorteado será exibido abaixo.
 
+## Jogue Agora! 🤩
+
+Clique no botão abaixo para acessar o **Amigo Secreto** diretamente no seu navegador e se divertir! 🎉  
+
+[![Acesse o Jogo](https://img.shields.io/badge/%F0%9F%8E%AE%20Jogar%20Agora-FF4081?style=for-the-badge)](https://jogo-amigo-secreto-anaclauds-projects.vercel.app/)
+
+
 ## Feito com 💖 por:
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/anaclaudiads/" title="Acesse meu LinkedIn">
-        <img src="./imagens/ana.png" width="100px" alt="Foto de Ana"/><br>
+        <img src="./imagens/ana.png" width="500px" alt="Foto de Ana"/><br>
         <sub>
           <b>Ana Claudia Dias da Silva</b>
         </sub>
