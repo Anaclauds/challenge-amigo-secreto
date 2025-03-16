@@ -47,6 +47,35 @@ function sortearAmigo() {
     // Exibi o resultado na página
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = "O amigo(a) sorteado é: " + amigoSorteado;
+
+    exibirBotaoNovoSorteio();
+}
+
+// Função para criar um novo botão ao realizar um sorteio
+function exibirBotaoNovoSorteio() {
+    let novoSorteioBtn = document.getElementById("novoSorteio");
+
+    if (!novoSorteioBtn) {
+        novoSorteioBtn = document.createElement("button");
+        novoSorteioBtn.id = "novoSorteio";
+        novoSorteioBtn.className = "button-draw";
+        novoSorteioBtn.textContent = "Novo Sorteio";
+        novoSorteioBtn.onclick = resetarSorteio;
+
+        document.querySelector(".button-container").appendChild(novoSorteioBtn);
+    }
+}
+
+// Limpa os campos
+function resetarSorteio() {
+    document.getElementById("resultado").innerHTML = "";
+    document.getElementById("listaAmigos").innerHTML = "";
+    amigos.length = 0;
+
+    const novoSorteioBtn = document.getElementById("novoSorteio");
+    if (novoSorteioBtn) {
+        novoSorteioBtn.remove();
+    }
 }
 
 
