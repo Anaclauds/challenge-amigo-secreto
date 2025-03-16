@@ -68,16 +68,19 @@ function exibirBotaoNovoSorteio() {
 
 // Limpa os campos
 function resetarSorteio() {
+    // Limpa o resultado
     document.getElementById("resultado").innerHTML = "";
-    document.getElementById("listaAmigos").innerHTML = "";
-    amigos.length = 0;
 
+    // Remove a lista de amigos no HTML e limpa o array
+    listaDeNomes = [];
+    document.getElementById("listaAmigos").innerHTML = "";
+
+    // Remove o botão de novo sorteio
     const novoSorteioBtn = document.getElementById("novoSorteio");
     if (novoSorteioBtn) {
         novoSorteioBtn.remove();
     }
 }
-
 
 
 
