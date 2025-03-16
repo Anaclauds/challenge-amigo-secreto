@@ -36,7 +36,7 @@ git clone https://github.com/Anaclauds/challenge-amigo-secreto
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/anaclaudiads/" title="Acesse meu LinkedIn">
-        <img src="./imagens/ana.png" width="100px" alt="Foto de Ana"/><br>
+        <img src="./imagens/ana.png" width="500px" alt="Foto de Ana"/><br>
         <sub>
           <b>Ana Claudia Dias da Silva</b>
         </sub>
