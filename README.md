@@ -5,7 +5,7 @@ O **Amigo Secreto** é um projeto (challenge) desenvolvido durante meus estudos 
 
 ## 📸
 
-<img src="assets/amigo-secreto.png" alt="Jogo">
+<img src="assets/jogo.png" alt="Jogo">
 
 ## Tecnologias Utilizadas 👩‍💻
 - **HTML5:** Para estruturas o conteúdo da página.
