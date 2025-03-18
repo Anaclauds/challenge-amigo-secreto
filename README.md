@@ -5,7 +5,7 @@ O **Amigo Secreto** é um projeto (challenge) desenvolvido durante meus estudos 
 
 ## 📸
 
-<img src="./imagens/jogo.png" alt="Jogo">
+<img src="assets/amigo-secreto.png" alt="Jogo">
 
 ## Tecnologias Utilizadas 👩‍💻
 - **HTML5:** Para estruturas o conteúdo da página.
@@ -43,7 +43,7 @@ Clique no botão abaixo para acessar o **Amigo Secreto** diretamente no seu nave
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/anaclaudiads/" title="Acesse meu LinkedIn">
-        <img src="./imagens/ana.png" width="500px" alt="Foto de Ana"/><br>
+        <img src="assets/ana.png" width="500px" alt="Foto de Ana"/><br>
         <sub>
           <b>Ana Claudia Dias da Silva</b>
         </sub>
